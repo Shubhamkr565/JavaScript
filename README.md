@@ -1,1 +1,2 @@
-# JavaScript basic to advance program
+# JavaScript fundamental to advanced program
+
